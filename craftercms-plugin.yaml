@@ -19,18 +19,18 @@ plugin:
     Pizza Shop!
   website:
     name: Pizza Shop
-    url: https://github.com/rivetlogic/craftercms-bp-pizza.git
+    url: https://github.com/craftersoftware/craftercms-bp-pizza
   media:
     screenshots:
       - title: Home Section
         description: Screenshot of the home section
-        url: "https://raw.githubusercontent.com/rivetlogic/craftercms-bp-pizza/master/static-assets/images/screenshots/bp_pizza_home.png"
+        url: "https://raw.githubusercontent.com/craftersoftware/craftercms-bp-pizza/4/static-assets/images/screenshots/bp_pizza_home.png"
       - title: Gallery Section
         description: Screenshot of the gallery section
-        url: "https://raw.githubusercontent.com/rivetlogic/craftercms-bp-pizza/master/static-assets/images/screenshots/bp_pizza_gallery.png"
+        url: "https://raw.githubusercontent.com/craftersoftware/craftercms-bp-pizza/4/static-assets/images/screenshots/bp_pizza_gallery.png"
       - title: Contact Section
         description: Screenshot of the contact section
-        url: "https://raw.githubusercontent.com/rivetlogic/craftercms-bp-pizza/master/static-assets/images/screenshots/bp_pizza_contact.png"
+        url: "https://raw.githubusercontent.com/craftersoftware/craftercms-bp-pizza/4/static-assets/images/screenshots/bp_pizza_contact.png"
   developer:
     company:
       name: Rivet Logic
